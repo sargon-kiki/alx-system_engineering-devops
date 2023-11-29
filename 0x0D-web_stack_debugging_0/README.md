@@ -1,0 +1,1 @@
+debug docker container running an apache app
