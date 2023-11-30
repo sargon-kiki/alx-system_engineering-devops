@@ -1,0 +1,1 @@
+Setup of domain name and nginx server
